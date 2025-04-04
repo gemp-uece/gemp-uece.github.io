@@ -29,7 +29,7 @@ order: 2
 - **31 de Agosto - 5 de Setembro (Baku, Azerbaijan)**
 --- 
 ## Olimpíada Brasileira de Informática 
-==** - Abertura das inscrições: 06/03/2025**==
+- **Abertura das inscrições: 06/03/2025**
 	Cadastro das escolas para participação na Modalidade Programação: 
 	até 09/06/2025
 	Cadastro dos competidores para participação na Modalidade Programação: 
