@@ -27,7 +27,7 @@ order: 2
 ---
 ## The 2025 ICPC World Finals (International Collegiate Programming Contest)
 - **31 de Agosto - 5 de Setembro (Baku, Azerbaijan)**
-
+--- 
 ## Olimpíada Brasileira de Informática 
 ==** - Abertura das inscrições: 06/03/2025**==
 	Cadastro das escolas para participação na Modalidade Programação: 
