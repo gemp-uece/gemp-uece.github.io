@@ -14,6 +14,7 @@ order: 2
 - Até 02/08/2025: inscrição com desconto;
 - Até 23/08/2025: inscrição dos times deve estar COMPLETA;
 - Até 05/09/2025: inscrição de café com leite;
+
 - **13/09/2025: Primeira Fase;** 
 - **Até 20/09/2025: definição dos classificados para a Final Brasileira.**
 - **6 a 9 de novembro: Final Brasileira em São Paulo**
@@ -23,7 +24,7 @@ order: 2
 | Data de realização da prova | 13/09/2025  |     |  6 - 9/11/2025   |
 |      Duração da prova       | Cinco horas |     |   Cinco horas    |
 |                             |             |     |                  |
-
+---
 ## The 2025 ICPC World Finals (International Collegiate Programming Contest)
 - **31 de Agosto - 5 de Setembro (Baku, Azerbaijan)**
 
