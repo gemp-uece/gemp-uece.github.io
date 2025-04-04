@@ -10,8 +10,8 @@ order: 2
 ``` -->
 ## Maratona SBC de Programação
 - 24/05/2025: Fase Zero (online e opcional);
-**== - Início de Junho: abertura das inscrições==**
-	Até 02/08/2025: inscrição com desconto;
+- ==**Início de Junho: abertura das inscrições**==
+  Até 02/08/2025: inscrição com desconto;
 	Até 23/08/2025: **inscrição dos times deve estar COMPLETA**;
 	Até 05/09/2025: inscrição de café com leite;
 **== - 13/09/2025: Primeira Fase;==** 
