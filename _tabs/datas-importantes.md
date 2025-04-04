@@ -34,7 +34,7 @@ order: 2
 	até 09/06/2025
 - Cadastro dos competidores para participação na Modalidade Programação: 
 	até 10/06/2025, 18:00
-###### Provas (Nível Sênior)[^1]
+#### Provas (Nível Sênior)[^1]
 
 |        Fase        |             **Fase 1 (Local)**              |     |    **Fase 2 (Estadual)**     |  **Fase 3 (Nacional)**  |
 | :----------------: | :-----------------------------------------: | :-: | :--------------------------: | :---------------------: |
