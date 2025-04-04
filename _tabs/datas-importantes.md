@@ -30,9 +30,9 @@ order: 2
 --- 
 ## Olimpíada Brasileira de Informática 
 - **Abertura das inscrições: 06/03/2025**
-	Cadastro das escolas para participação na Modalidade Programação: 
+- Cadastro das escolas para participação na Modalidade Programação: 
 	até 09/06/2025
-	Cadastro dos competidores para participação na Modalidade Programação: 
+- Cadastro dos competidores para participação na Modalidade Programação: 
 	até 10/06/2025, 18:00
 ###### Provas (Nível Sênior)[^1]
 
