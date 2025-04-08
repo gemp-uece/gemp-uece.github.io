@@ -253,6 +253,7 @@ Partes do `for`:
 Também pode ser usado para percorrer arrays ou vetores:
 
 ```cpp
+#include <vector>
 vector<int> v = {10, 20, 30};
 for (int i = 0; i < v.size(); i++) {
     cout << v[i] << " ";
@@ -350,7 +351,6 @@ if (ehPrimo(n)) {
 
 - [Olá Neps Academy](https://neps.academy/br/exercise/1)
 - [Soma Fácil](https://neps.academy/br/exercise/134)
-- [Par ou Ímpar
-](https://neps.academy/br/exercise/148)
+- [Par ou Ímpar](https://neps.academy/br/exercise/148)
 - [Média Inteira](https://neps.academy/br/exercise/136)
 - [Aprovado ou Reprovado](https://neps.academy/br/exercise/86)
