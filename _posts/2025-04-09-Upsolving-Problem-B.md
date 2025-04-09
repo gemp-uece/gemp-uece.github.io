@@ -47,4 +47,4 @@ for (int i = 0; i < string.size() - crib.size(); i++) {
 }
 ```
 
-- OBS: Essa solução terá pior caso de O(n^2), mas será válida para o tamanho máximo da string provido (10^4).
+- OBS: Essa solução terá pior caso de O(n²), mas será válida para o tamanho máximo da string provido (10⁴).

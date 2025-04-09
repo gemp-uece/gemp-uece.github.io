@@ -1,6 +1,9 @@
 buzz:
-  name: Joao Guilherme (Buzz)
-  url: https://github.com/joaocanuto
+    name: Joao Guilherme (Buzz)
+    url: https://github.com/joaocanuto
 calima:
-  name: Camila Pinheiro (Calima)
-  url: https://github.com/diaspcamila
+    name: Camila Pinheiro (Calima)
+    url: https://github.com/diaspcamila
+joaom-marques:
+    name: João Marcelo Marques (joaom-marques)
+    url: https://github.com/joaom-marques
