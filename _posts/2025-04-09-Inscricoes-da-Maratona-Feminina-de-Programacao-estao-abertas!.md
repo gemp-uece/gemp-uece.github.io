@@ -13,7 +13,9 @@ tags:
 pin: "true"
 ---
 Ontem, dia 8 de abril de 2025, foram iniciadas as inscrições para a Maratona Feminina de Programação (MFP) e devem ser feitas até dia 22 de abril!
+
 ![Desktop View](/assets/img/MFP-2025.png){: w="700" h="400" }
+
 # Mas, o que é a MFP?
 A Maratona Feminina de Programação é realizada pela Sociedade Brasileira de Computação (SBC) e apoiado pelo Instituto de Computação da UNICAMP (IC), com o objetivo de incentivar a participação mais ampla de pessoas como mulheres ou pessoas não-binárias latino-americanas, criando uma comunidade de programação feminina na América Latina, ou seja, além de brasileiros, também participam falantes da língua espanhola na competição! 
 A maratona consiste de duas fases, cada uma contendo uma coleção de questões com resoluções baseadas em lógica matemática em algoritmos básicos aos complexos e variando na duração da prova de 3 a 4 horas.
