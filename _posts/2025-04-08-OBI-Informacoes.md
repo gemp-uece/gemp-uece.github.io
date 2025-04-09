@@ -45,7 +45,7 @@ Para mais informações e atualizações, visite o site oficial da OBI: [OBI - S
 
 ### Como Treinar para a Competição ? 
 Ao longo dos próximos dias, iremos divulgar materiais de Estudos para OBI no nosso blog. Inicialmente você, se você estiver tendo seu primeiro contato com Programação Competitiva, recomendamos conferir o post : 
-* [Introdução ao C++ para Programação Competitiva](https://gemp-uece.github.io/posts/Hello-Gemp/_posts/Introducao-ao-Cpp) 
+* [Introdução ao C++ para Programação Competitiva](https://gemp-uece.github.io/posts/Introducao-ao-Cpp/) 
 
 ### Vai competir ? 
 Participe do nosso canal/grupo no whatsapp de informações e treinos para OBI:
