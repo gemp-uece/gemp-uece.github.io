@@ -16,8 +16,7 @@ A **Olimpíada Brasileira de Informática (OBI)** é uma competição anual prom
 
 ### Quem Pode Participar da OBI?
 
-A OBI é aberta a alunos de diversas etapas educacionais, distribuídos em diferentes níveis e modalidades, o nivel importante para o nosso contexto, é o nível Sênior: 
-
+A OBI é aberta a alunos de diversas etapas educacionais, distribuídos em diferentes níveis e modalidades, o nível importante para o nosso contexto, é o nível Sênior:
   - *Nível Sênior*: Alunos do 1º ano de um curso de graduação.
 
 Para o **Nível Sênior**, especificamente, podem participar estudantes que estejam cursando, pela primeira vez, o primeiro ano de um curso de graduação no momento da prova da Fase Local da OBI.
@@ -37,7 +36,7 @@ Para mais informações e atualizações, visite o site oficial da OBI: [OBI - S
 ### Como se Inscrever :
 
 1. Acesse o link para realizar sua pré-inscrição : [Link](https://olimpiada.ic.unicamp.br/pre_inscricao_compet/3318/)
-2. Preencha com seus dados, preferêncialmente usando o e-mail da uece.
+2. Preencha com seus dados, preferencialmente usando o e-mail da uece.
 3. Nos seguintes campos, preencha:
     * Ano Escolar: **Universitário, primeiro ano**
     * Turma Escolar: **A**
