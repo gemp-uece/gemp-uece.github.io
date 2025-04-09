@@ -2,12 +2,7 @@
 icon: fas fa-calendar
 order: 2
 ---
-<!-- crie um calendario sabendo que estou usando jeskyll -->
 
-<!-- ## Calendário
-
-<iframe src="https://calendar.google.com/calendar/embed?src=contato%40souzajr.com&ctz=America%2FSao_Paulo" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-``` -->
 ## Maratona SBC de Programação
 - 24/05/2025: Fase Zero (online e opcional);
 - **Início de Junho: abertura das inscrições**
@@ -23,7 +18,7 @@ order: 2
 | :-------------------------: | :---------: | :-: | :--------------: |
 | Data de realização da prova | 13/09/2025  |     |  6 - 9/11/2025   |
 |      Duração da prova       | Cinco horas |     |   Cinco horas    |
-|                             |             |     |                  |
+
 ---
 ## The 2025 ICPC World Finals (International Collegiate Programming Contest)
 - **31 de Agosto - 5 de Setembro (Baku, Azerbaijan)**
