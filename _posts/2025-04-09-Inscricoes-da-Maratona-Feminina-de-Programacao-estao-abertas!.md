@@ -24,7 +24,7 @@ A maratona consiste de duas fases, cada uma contendo uma coleção de questões 
 Para participar como participantes efetivos[^1], são permitidas todas as pessoas que se identificam como mulheres ou não-binárias que estejam matriculadas na graduação regularmente em uma instituição latino-americana de ensino superior.
 
 ### Como funcionam as provas?
-Bem, como citado anteriormente, as provas consistem em duas, sendo a primeira fase online no site Codeforces no **dia 26 de abril de 2025 (sábado)**. Começa o dia com palestras ministrada pelos patrocinadores do evento, e então, um *Warm Up*, no período da tarde ocorrerá a prova com duração de 3 horas, 15:30 às 18:30 horas, e ao final encerramento da 1ª fase.
+Bem, como citado anteriormente, as provas consistem em duas, sendo a primeira fase online no site Codeforces no **dia 26 de abril de 2025 (sábado)**. Começa o dia com palestras ministradas pelos patrocinadores do evento, e então, um *Warm Up*, no período da tarde ocorrerá a prova com duração de 3 horas, 15:30 às 18:30 horas, e ao final encerramento da 1ª fase.
 E a segunda e **última** fase, após a convocação de todas as equipes classificadas, ocorrerá presencialmente no Instituto de Computação da UNICAMP, em Campinas/São Paulo, **entre os dias 05 de julho de 2025 (sábado) e 06 de julho de 2025 (domingo).** A prova dura 4 horas, 13:00 às 17:00 horas **no segundo dia do evento, 06 de julho,** após outras atividades planejadas pela organização no final de semana.
 Na competição, você pode submeter suas resoluções nas linguagens Python, Pascal, C, C++, Java ou Javascript. Porém, na programação competitiva é mais usada a C++. 
 #### Datas Importantes:
