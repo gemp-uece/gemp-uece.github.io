@@ -33,12 +33,14 @@ Para cada começo de substring (percebe-se que são de tamanho fixo, o mesmo tam
 
 ```cpp
 
+int count = 0;
 // Note o limite do loop. Precisamos apenas testar
 // substrings de tamanho específico
-for (int i = 0; i < string.size() - crib.size(); i++) {
+for (int i = 0; i < string.size() - crib.size() + 1; i++) {
+    bool match = false;
     for (int j = i; j < crib.size(); j++) {
     // Comparamos cada char de crib com a substring
-        if (string[i] == crib[j]) {
+        if (string[i + j] == crib[j]) {
             match = true; // Match! substring inválida para essa posicao
             break; // Próxima substring
         }
