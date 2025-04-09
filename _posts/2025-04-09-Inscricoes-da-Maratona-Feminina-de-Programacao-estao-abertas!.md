@@ -43,12 +43,4 @@ Aqui no nosso blog do GEMP estamos divulgando materiais para aprendizado, temos 
 Participe do nosso grupo no Whatsapp para ter outras informações e questões para treinar para a maratona feminina ou outras competições: 
 [Grupo do Whatsapp](https://chat.whatsapp.com/I0K0VhMIxjT5THdvGDVyqJ)
 
-### Listas de Questões : 
-
-(Em breve!!!)
-
-### Simulados
-
-(Em breve!!!)
-
 [^1]: Existe como estudantes do ensino médio de escolas de ensino básico ou técnico brasileiras participarem, mas apenas como **treineiras** e **apenas** na 1º fase online.
