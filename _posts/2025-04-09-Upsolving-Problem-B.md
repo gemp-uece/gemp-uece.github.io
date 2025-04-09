@@ -29,6 +29,8 @@ Dessa forma: Iterativamente, quando encontrarmos uma situação `string[i] == cr
 Como ficou evidente, a solução deve ser iterativa e verificaremos quantas substrings da string provida são válidas para a crib especificada.
 Para cada começo de substring (percebe-se que são de tamanho fixo, o mesmo tamanho de crib) devemos iterar pelo tamanho de crib para verificar a sua validade:
 
+![Representação Visual](/assets/img/visual-representation-upsolving-problem-b.png)
+
 ```cpp
 
 // Note o limite do loop. Precisamos apenas testar
