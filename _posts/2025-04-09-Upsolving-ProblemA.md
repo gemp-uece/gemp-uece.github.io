@@ -5,7 +5,7 @@ date: YYYY-MM-DD HH:MM:SS +/-TTTT
 author: author_id
 categories:
   - Blogging
-tags: #fluxo #if-else
+tags:
 pin: "true"
 math: "true"
 mermaid: "true"
