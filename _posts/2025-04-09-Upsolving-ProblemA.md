@@ -5,13 +5,13 @@ date: YYYY-MM-DD HH:MM:SS +/-TTTT
 author: author_id
 categories:
   - Blogging
-tags: 
+tags: #fluxo #if-else
 pin: "true"
 math: "true"
 mermaid: "true"
 ---
 # # Upsolving 'Bolsistas Can Code ?' ed. 1 - Problema A
-##### Conhecimentos necessários: #ControleDeFluxo #IfElse
+##### Conhecimentos necessários: Controle de Fluxo, If-Else
 ### Problema Geral
 Um jogador está participando de um programa de auditório que consiste em escolher, entre 3 portas fechadas, sendo duas com uma cabra e outra com um carro, a porta que tem o carro. 
 ### Restrições
