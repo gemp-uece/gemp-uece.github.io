@@ -1,6 +1,6 @@
 ---
 title: Upsolving 'Bolsistas Can Code ?' ed. 1 - Problema F
-date: 2025-04-12 19:37:00 -0300
+date: 2025-04-12 12:40:00 -0300
 categories: [Competitive Programming, Upsolving]
 description: Resolução do problema "Kefa and Park" do Codeforces.
 tags: [tree, dfs]    
