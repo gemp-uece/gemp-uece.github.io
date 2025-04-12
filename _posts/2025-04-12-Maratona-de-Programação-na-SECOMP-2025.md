@@ -15,13 +15,14 @@ mermaid: true
 
 ### Como vai ser o GEMP na SECOMP 2025
 
-Iremos participar da SECOMP 2025, que ocorrerá entre os dias 15 e 17 de Maio de 2025, no Centro de Eventos do Ceará. O evento contará com diversas atividades, incluindo palestras, workshops e competições.
+Iremos participar da SECOMP 2025, que ocorrerá entre os dias 13 e 16 de Maio de 2025, na UECE.
 Dentre as atividades, teremos:
 
 - Minicurso de Algoritmos de Busca em Strings
 - Maratona de programação
 
-As atividades têm o intuito de introduzir os participantes ao mundo da programação competitiva. O minicurso será interessante tanto para aqueles que não possuem conhecimento prévio em competições, quanto para os que já são familiarizados com programação, trazendo novas ideias e implementações úteis. Já a maratona de programação proporcionará uma experiência prática de competição, permitindo que os participantes vivenciem os desafios e a dinâmica de uma disputa real.
+As atividades têm o intuito de introduzir os participantes ao mundo da programação competitiva. O minicurso será interessante tanto para aqueles que não possuem conhecimento prévio em competições, quanto para os que já são familiarizados com programação, trazendo novas ideias e implementações úteis.
+Já a maratona de programação proporcionará uma experiência prática de competição, permitindo que os participantes vivenciem os desafios e a dinâmica de uma disputa real.
 
 ### Maratona de Programação na SECOMP 2025
 
@@ -38,7 +39,7 @@ E contará com prêmios em dinheiro 🤑 em categorias diversas, não apenas par
 
 ### Minicurso de Algoritmos de Busca em Strings
 
-O minicurso de Algoritmos de Busca em Strings será ministrado por membros do GEMP e abordará os principais algoritmos utilizados na busca de padrões em strings, como o algoritmo de Z, KMP, Trie entre outros. O minicurso será realizado no dia 13 e 15 de Maio de 2025, das 13h às 16h, no PPGCC - UECE.
+O minicurso de Algoritmos de Busca em Strings será ministrado por membros do GEMP e abordará os principais algoritmos utilizados na busca de padrões em strings, como o algoritmo de Z, KMP, Trie entre outros. O minicurso será realizado no dia 13 e 14 de Maio de 2025, das 13h às 16h, no PPGCC - UECE.
 
 O minicurso será dividido em duas partes:
 
