@@ -15,7 +15,7 @@ mermaid: true
 
 ### Como vai ser o GEMP na SECOMP 2025
 
-Iremos participar da SECOMP 2025, que ocorrerá entre os dias 13 e 16 de Maio de 2025, na UECE.
+Iremos participar da SECOMP 2025, que ocorrerá entre os dias 13 a 16 de Maio de 2025, na UECE.
 Dentre as atividades, teremos:
 
 - Minicurso de Algoritmos de Busca em Strings
