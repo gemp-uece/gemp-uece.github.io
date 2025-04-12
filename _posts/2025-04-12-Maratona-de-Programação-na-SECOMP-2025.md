@@ -63,6 +63,7 @@ Lembrando que você se inscrevendo na modalidade de Evento Completo você pode p
 > Caso deseje participar da Maratona o aluno deve se inscrever na modalidade de Evento Completo no site, para poder participar da competição.
 > ❗️❗️ **Atenção 2.0:**
 > As participações serão limitadas aos espaços do laboratório, portanto, as inscrições serão limitadas, e a prioridade será por ordem de inscrição. Ou seja, se você quer participar, faça sua inscrição o quanto antes!
+
 ### Premiação 🏅
 
 A premiação da maratona será divulgada pelo PET, principal organizador do evento. Você pode acompanhar as principais informações sobre o evento através do [Instagram do PET](https://www.instagram.com/petcomputacao/).
