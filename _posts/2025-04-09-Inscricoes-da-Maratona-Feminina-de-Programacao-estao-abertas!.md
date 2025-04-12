@@ -4,8 +4,8 @@ description: Post sobre a MFP.
 date: 2025-04-08 22:43:00 -300
 author: calima
 categories:
-  - MFP
   - Informacoes
+  - MFP
 tags:
   - mfp
   - competições

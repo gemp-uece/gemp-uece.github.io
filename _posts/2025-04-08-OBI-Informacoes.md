@@ -3,8 +3,8 @@ title: Guia para a OBI 2025
 date: 2025-04-08 20:40:00 -300
 description: OBI - Comece por aqui
 author: buzz
-categories: [OBI, Informacoes]
-tags: [informacoes]
+categories: [Informacoes, OBI]
+tags: [obi,competicoes]
 pin: true
 ---
 

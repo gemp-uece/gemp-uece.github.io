@@ -3,8 +3,8 @@ title: Introdução ao C++ para Programação Competitiva
 date: 2025-04-08 20:40:00 -300
 description: Uma introdução direta a C++ para programação competitiva. 
 author: buzz
-categories: [C++, Tópicos-Introdutórios]
-tags: [easy-level,starter-topics]
+categories: [Tópicos-Introdutórios,C++]
+tags: [easy-level,starter-topics,c++,programacao-competitiva]
 pin: true
 ---
 
