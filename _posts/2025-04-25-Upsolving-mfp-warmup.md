@@ -10,7 +10,7 @@ math: true
 mermaid: true 
 ---
 
-Link do contest : https://vjudge.net/contest/712373
+Link do contest : (Vjudge-Link)[https://vjudge.net/contest/712373]
 
 ### A : Fatigue-Fighting Vacation (Gym 104555F)
 
