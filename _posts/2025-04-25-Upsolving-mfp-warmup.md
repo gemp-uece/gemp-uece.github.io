@@ -10,11 +10,11 @@ math: true
 mermaid: true 
 ---
 
-Link do contest : https://vjudge.net/contest/712373
+Link do contest : (Vjudge-Link)[https://vjudge.net/contest/712373]
 
 ### A : Fatigue-Fighting Vacation (Gym 104555F)
 
-* Link do problema: https://codeforces.com/gym/104555/problem/F
+* Link do problema: (Fatigue-Fighting Vacation)[https://codeforces.com/gym/104555/problem/F]
 
 O problema é: William tem uma energia inicial D, e faz C atividades que consomem energia e R atividades que dão energia pra ele quando ele realiza. Ele tem que executar as atividades de cada grupo em ordem, ou seja, ele nao pode realizar a C-esima atividade do grupo C antes da primeira atividade do grupo C. ( Isso vale para as atividades que dão energia, do grupo R).
 
@@ -65,7 +65,7 @@ signed main() { _
 
 ### B : Playing 23 (Gym 103960J)
 
-* Link do problema: https://codeforces.com/gym/103960/problem/J
+* Link do problema: (Playing 23)[https://codeforces.com/gym/103960/problem/J]
 
 Problema: Assim como no jogo black-jack (21), você tera um jogo semelhante, mas com o objetivo de alcançar o mais proximo de 23, sem passar de 23. Na nossa simulação jogam 3 pessoas : Mesa, Maria e Joao. Basicamente iremos descrever os cenarios: as cartas que a mesa tem apos as N rodadas, as cartas que maria inicia e as cartas que joao inicia. O objetivo é tentar fazer maria ganhar na proxima rodada com a menor carta possivel.
 
@@ -136,7 +136,7 @@ signed main() { _
 
 ### C : Multidimensional Hangman (Gym 103960F)
 
-* Link do problema: https://codeforces.com/gym/103960/problem/F
+* Link do problema: (Multidimensional Hangman)[https://codeforces.com/gym/103960/problem/F]
 
 Problema: Você recebe uma lista de palavras incompletas, faltando uma letra. Seu objetivo é gerar uma palavra completa, de modo que ela possa ser gerada por a maior quantidade de palavras incompletas da sua lista. Você deve printar a palavra e a quantidade de palavras da sua lista que podem gerar ela. 
 
@@ -190,7 +190,7 @@ signed main() { _
 
 ### D : Eliminating Ballons (Gym 103960E)
 
-* Link do problema: https://codeforces.com/gym/103960/problem/E
+* Link do problema: (Eliminating Ballons)[https://codeforces.com/gym/103960/problem/E]
 
 Problema: Você recebe as posições do eixo x de uma lista de balões. e o objetivo é utilizar dardos para explodir o máximo de balões possivel com o mínimo de dardos.
 
@@ -238,7 +238,7 @@ signed main()
 
 ### E : Buffoon (Gym 102346B)
 
-* Link do problema: https://codeforces.com/gym/102346/problem/B
+* Link do problema: (Buffoon)[https://codeforces.com/gym/102346/problem/B]
 
 Problema: Checar se o valor do primeiro elemento do array é o maior que ou igual a cada um dos outros elementos. Se sim, imprima S, se nao imprima N.
 
@@ -276,7 +276,7 @@ signed main() { _
 
 ### F : Battleship (Gym 102861B)
 
-* Link do problema: https://codeforces.com/gym/102861/problem/B
+* Link do problema: [Battleship](https://codeforces.com/gym/102861/problem/B)
 
 Problema: Você irá posicionar N navios horizontais ou verticais, seu objetivo é checar se eles estao se sobrepondo, ou se estão passando do limite do tabuleiro (10x10).
 
