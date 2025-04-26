@@ -5,7 +5,6 @@ description: Upsolvingo do Contest promovido pelo GEMP, para alunas da universid
 author: buzz
 categories: [Upsolving, MFP]
 tags: [mfp, competicoes, upsolving]
-pin: true
 math: true
 mermaid: true 
 ---

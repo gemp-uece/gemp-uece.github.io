@@ -10,7 +10,6 @@ tags:
   - mfp
   - competições
   - informacoes
-pin: "true"
 ---
 
 Ontem, dia 8 de abril de 2025, foram iniciadas as inscrições para a Maratona Feminina de Programação (MFP) e devem ser feitas até dia 22 de abril!

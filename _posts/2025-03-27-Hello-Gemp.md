@@ -5,7 +5,6 @@ description: Primeiro post do Blog :)
 author: buzz
 categories: [Blogging, Demo]
 tags: [demo]
-pin: true
 math: true
 mermaid: true # TAG names should always be lowercase
 ---

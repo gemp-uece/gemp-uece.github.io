@@ -5,7 +5,6 @@ description: Uma introdução direta a C++ para programação competitiva.
 author: buzz
 categories: [Tópicos-Introdutórios,C++]
 tags: [easy-level,starter-topics,c++,programacao-competitiva]
-pin: true
 ---
 
 

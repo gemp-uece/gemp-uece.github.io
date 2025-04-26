@@ -5,7 +5,6 @@ description: O GEMP irá promover uma maratona de programação na SECOMP 2025 e
 author: buzz
 categories: [Informacoes, SECOMP]
 tags: [secomp, competicoes]
-pin: true
 math: true
 mermaid: true 
 ---

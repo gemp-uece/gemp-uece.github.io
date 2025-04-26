@@ -5,7 +5,6 @@ description: OBI - Comece por aqui
 author: buzz
 categories: [Informacoes, OBI]
 tags: [obi,competicoes]
-pin: true
 ---
 
 ![Desktop View](/assets/img/obi-2025.png){: width="742" height="394" }
