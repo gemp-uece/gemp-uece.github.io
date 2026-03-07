@@ -4,7 +4,7 @@ date: 2026-03-06 19:00:00 -0300
 description: Planejamento das turmas e materiais de estudo do GEMP para 2026.1.
 author: buzz
 categories: [Informacoes, Planejamento]
-tags: [obi, maratona, mfp, planejamento, 2026]
+tags: [obi, maratona, mfp, planejamento, "2026"]
 ---
 
 Fala, galera! Boa noite. Tudo tranquilo?
