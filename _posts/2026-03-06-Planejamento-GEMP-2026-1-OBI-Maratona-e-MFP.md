@@ -1,6 +1,6 @@
 ---
 title: Planejamento GEMP 2026.1 - OBI, Maratona e MFP
-date: 2026-03-07 19:00:00 -0300
+date: 2026-03-06 19:00:00 -0300
 description: Planejamento das turmas e materiais de estudo do GEMP para 2026.1.
 author: buzz
 categories: [Informacoes, Planejamento]
